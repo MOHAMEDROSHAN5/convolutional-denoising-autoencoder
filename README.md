@@ -185,6 +185,8 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+
+Developed By : MOHAMED ROSHAN S (212222040101)
 ![IMAGE](326050108-b6598e78-8790-41a6-a28b-f58bcd0dfbff.png)
 
 ### Original vs Noisy Vs Reconstructed Image
